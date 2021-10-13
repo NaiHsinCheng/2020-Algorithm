@@ -1,0 +1,4 @@
+gnuplot
+set style data lines
+plot "data.txt" with linespoints lt 0 lw 2 pt 1 ps 1.5
+
